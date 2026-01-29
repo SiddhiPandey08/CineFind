@@ -1,6 +1,7 @@
 # 🎬 CineFind
 
 CineFind is a simple and responsive movie discovery web app that allows users to search for movies and explore details using real-time data from a public movie API.
+
 The project focuses on clean UI, API integration, and deploying a fully functional frontend application to the web.
 
 🔗 **Live Demo:**  
@@ -43,4 +44,7 @@ https://siddhipandey08.github.io/CineFind/
 - Optimize API usage  
 
 ---
+
+## 📬 Feedback
+
 Suggestions and feedback are always welcome!
